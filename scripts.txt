@@ -1,6 +1,6 @@
 
 #Step 1: Building an image
-#Syntax: docker build -t <image-name> <location of dockerfile>
+#Syntax: docker build -t <image-name> <location of dockerfile>sdfg
 -------------------------------------------------------------------
 docker build -t my-httpd .
 
